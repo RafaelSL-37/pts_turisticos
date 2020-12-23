@@ -1,0 +1,1 @@
+web: gunicorn pts_turisticos.wsgi
