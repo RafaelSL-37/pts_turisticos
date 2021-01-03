@@ -10,4 +10,4 @@ Foi criado um banco de dados de pontos turísticos, com as tabelas descritas aba
 *comentarios (Tabela com os comentários de cada ponto turístico)
 *localizacao (Tabela com as informações da localização dos pontos turísticos)
 *token (Tabela com os tokens de autenticação de cada usuário)
-*user (Tabela com o registro dos usurários e suas permissões)
+*user (Tabela com o registro dos usuários e suas permissões)
